@@ -1,0 +1,25 @@
+{
+    "storeName": "LuxeMart",
+    "currency": "USD",
+    "products": [
+        {
+            "id": "1",
+            "name": "Premium Leather Backpack",
+            "price": 199.00,
+            "category": "Accessories",
+            "inStock": true
+        },
+        {
+            "id": "2",
+            "name": "Minimalist Watch",
+            "price": 149.00,
+            "category": "Accessories",
+            "inStock": true
+        }
+    ],
+    "categories": [
+        "Accessories",
+        "Electronics",
+        "Clothing"
+    ]
+}
