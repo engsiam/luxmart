@@ -11,6 +11,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
+    "@types/uuid": "^10.0.0",
     "clsx": "^2.1.1",
     "framer-motion": "^12.23.25",
     "gsap": "^3.13.0",
@@ -22,6 +23,7 @@
     "react-use": "^17.6.0",
     "sass": "^1.94.2",
     "tailwind-merge": "^3.4.0",
+    "uuid": "^13.0.0",
     "zustand": "^5.0.9"
   },
   "devDependencies": {
