@@ -97,7 +97,7 @@ pnpm dev
 # 🌐 Live Demo
 
 ```bash
-https://your-live-demo-link.vercel.app
+[https://your-live-demo-link.vercel.app](https://luxmart-a7jp.vercel.app/)
 ```
 
 ---
