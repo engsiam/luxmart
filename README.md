@@ -57,34 +57,6 @@ The project is designed with a strong emphasis on:
 - GSAP
 - Framer Motion
 
----
-
-# 📸 UI Preview
-
-## 🏠 Homepage
-
-<p align="center">
-  <img src="https://i.ibb.co.com/placeholder/luxmart-homepage.png" alt="Homepage Preview"/>
-</p>
-
----
-
-## 🛍️ Featured Products Section
-
-<p align="center">
-  <img src="https://i.ibb.co.com/placeholder/luxmart-products.png" alt="Products Preview"/>
-</p>
-
----
-
-## 🎨 Premium UI Experience
-
-<p align="center">
-  <img src="https://i.ibb.co.com/placeholder/luxmart-ui.png" alt="UI Preview"/>
-</p>
-
----
-
 # 📂 Project Structure
 
 ```bash
